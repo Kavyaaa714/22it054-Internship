@@ -1,5 +1,5 @@
-# 22TT054-Internship
-🌟 Summer Internship 2024 - PHP Development at Agevole 🌟
+# 22TT054-Internship 
+🌟 Summer Internship 2024 - PHP Development at Agevole 🌟 
 
 Welcome to my GitHub repository for the PHP Development Summer Internship 2024 at Agevole! This project showcases the work done during my 6-week internship, highlighting the skills and experience gained in PHP development.
 
@@ -8,13 +8,13 @@ Welcome to my GitHub repository for the PHP Development Summer Internship 2024 a
 
 The internship at Agevole spanned 6 weeks, during which I developed key PHP projects and honed my skills in web development.
 
-🗂 Project Overview
-⿡ Week 1: Dispatch Panel for Tracking and Updating Orders
-🗓 13th May - 17th May 2024
+🗂️ Project Overview
+1️⃣ Week 1: Dispatch Panel for Tracking and Updating Orders
+🗓️ 13th May - 17th May 2024
 
 Tasks:
 
-🛠 Designed and implemented a dispatch panel to track and update orders.
+🛠️ Designed and implemented a dispatch panel to track and update orders.
 💻 Utilized PHP, MySQL, and HTML/CSS to create an interactive interface.
 🔄 Integrated real-time updates to ensure accurate order tracking.
 Day-by-Day Progress:
@@ -28,22 +28,22 @@ Highlights:
 
 🏆 Learned the importance of efficient database management.
 🌐 Enhanced my skills in PHP and front-end development.
-⿢ Weeks 2-6: Online Food Ordering Website
-🗓 18th May - 29th June 2024
+2️⃣ Weeks 2-6: Online Food Ordering Website
+🗓️ 18th May - 29th June 2024
 
 Tasks:
 
 🍔 Developed a full-fledged online food ordering website using PHP.
 🧑‍💻 Implemented user registration, menu management, order processing, and payment integration.
-🗄 Employed MySQL for database management and ensured data security.
+🗄️ Employed MySQL for database management and ensured data security.
 📱 Focused on responsive design and user-friendly interfaces.
 Week 2: User Registration and Authentication
-🗓 18th May - 24th May 2024
+🗓️ 18th May - 24th May 2024
 
 Tasks:
 
 🔐 Implemented user registration and login functionality.
-🛡 Secured user data with password hashing and validation.
+🛡️ Secured user data with password hashing and validation.
 Day-by-Day Progress:
 
 18th May: Designed the user registration and login forms.
@@ -54,12 +54,12 @@ Day-by-Day Progress:
 23rd May: Made final adjustments based on feedback.
 24th May: Completed user registration and authentication module.
 Week 3: Menu Management
-🗓 25th May - 31st May 2024
+🗓️ 25th May - 31st May 2024
 
 Tasks:
 
-🍽 Developed an admin panel for menu management.
-🛠 Enabled CRUD operations (Create, Read, Update, Delete) for menu items.
+🍽️ Developed an admin panel for menu management.
+🛠️ Enabled CRUD operations (Create, Read, Update, Delete) for menu items.
 Day-by-Day Progress:
 
 25th May: Designed the admin panel layout and menu management interface.
@@ -70,7 +70,7 @@ Day-by-Day Progress:
 30th May: Made final adjustments based on feedback.
 31st May: Completed menu management module.
 Week 4: Order Processing
-🗓 1st June - 7th June 2024
+🗓️ 1st June - 7th June 2024
 
 Tasks:
 
@@ -86,12 +86,12 @@ Day-by-Day Progress:
 6th June: Conducted testing and debugging.
 7th June: Made final adjustments based on feedback and completed order processing module.
 Week 5: Payment Integration
-🗓 8th June - 14th June 2024
+🗓️ 8th June - 14th June 2024
 
 Tasks:
 
 💳 Integrated secure payment gateways for order transactions.
-🛡 Ensured smooth and secure payment processing.
+🛡️ Ensured smooth and secure payment processing.
 Day-by-Day Progress:
 
 8th June: Researched and selected appropriate payment gateways.
@@ -102,12 +102,12 @@ Day-by-Day Progress:
 13th June: Made final adjustments based on feedback.
 14th June: Completed payment integration module.
 Week 6: Final Touches
-🗓 15th June - 29th June 2024
+🗓️ 15th June - 29th June 2024
 
 Tasks:
 
-🛠 Conducted thorough testing and debugging.
-🗣 Gathered feedback and made final improvements.
+🛠️ Conducted thorough testing and debugging.
+🗣️ Gathered feedback and made final improvements.
 Day-by-Day Progress:
 
 15th June - 20th June: Conducted comprehensive testing and debugging.
@@ -131,4 +131,4 @@ This repository serves as a showcase of the practical experience and skills gain
 Feel free to reach out if you have any questions or would like to discuss the projects further.
 
 Email: 22it054@charusat.edu.in
-*LinkedIn:* https://www.link
+LinkedIn: https://www.linkedin.com/in/kavya-karia-ba76a7239/
